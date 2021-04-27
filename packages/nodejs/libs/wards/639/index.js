@@ -1,0 +1,93 @@
+
+module.exports = [
+  {
+    "name": "Nhơn Hoà",
+    "type": "thi-tran",
+    "slug": "nhon-hoa",
+    "name_with_type": "Thị trấn Nhơn Hoà",
+    "path": "Nhơn Hoà, Chư Pưh, Gia Lai",
+    "path_with_type": "Thị trấn Nhơn Hoà, Huyện Chư Pưh, Tỉnh Gia Lai",
+    "code": "23942",
+    "parent_code": "639"
+  },
+  {
+    "name": "Ia Hrú",
+    "type": "xa",
+    "slug": "ia-hru",
+    "name_with_type": "Xã Ia Hrú",
+    "path": "Ia Hrú, Chư Pưh, Gia Lai",
+    "path_with_type": "Xã Ia Hrú, Huyện Chư Pưh, Tỉnh Gia Lai",
+    "code": "23971",
+    "parent_code": "639"
+  },
+  {
+    "name": "Ia Rong",
+    "type": "xa",
+    "slug": "ia-rong",
+    "name_with_type": "Xã Ia Rong",
+    "path": "Ia Rong, Chư Pưh, Gia Lai",
+    "path_with_type": "Xã Ia Rong, Huyện Chư Pưh, Tỉnh Gia Lai",
+    "code": "23972",
+    "parent_code": "639"
+  },
+  {
+    "name": "Ia Dreng",
+    "type": "xa",
+    "slug": "ia-dreng",
+    "name_with_type": "Xã Ia Dreng",
+    "path": "Ia Dreng, Chư Pưh, Gia Lai",
+    "path_with_type": "Xã Ia Dreng, Huyện Chư Pưh, Tỉnh Gia Lai",
+    "code": "23974",
+    "parent_code": "639"
+  },
+  {
+    "name": "Ia Hla",
+    "type": "xa",
+    "slug": "ia-hla",
+    "name_with_type": "Xã Ia Hla",
+    "path": "Ia Hla, Chư Pưh, Gia Lai",
+    "path_with_type": "Xã Ia Hla, Huyện Chư Pưh, Tỉnh Gia Lai",
+    "code": "23978",
+    "parent_code": "639"
+  },
+  {
+    "name": "Chư Don",
+    "type": "xa",
+    "slug": "chu-don",
+    "name_with_type": "Xã Chư Don",
+    "path": "Chư Don, Chư Pưh, Gia Lai",
+    "path_with_type": "Xã Chư Don, Huyện Chư Pưh, Tỉnh Gia Lai",
+    "code": "23980",
+    "parent_code": "639"
+  },
+  {
+    "name": "Ia Phang",
+    "type": "xa",
+    "slug": "ia-phang",
+    "name_with_type": "Xã Ia Phang",
+    "path": "Ia Phang, Chư Pưh, Gia Lai",
+    "path_with_type": "Xã Ia Phang, Huyện Chư Pưh, Tỉnh Gia Lai",
+    "code": "23983",
+    "parent_code": "639"
+  },
+  {
+    "name": "Ia Le",
+    "type": "xa",
+    "slug": "ia-le",
+    "name_with_type": "Xã Ia Le",
+    "path": "Ia Le, Chư Pưh, Gia Lai",
+    "path_with_type": "Xã Ia Le, Huyện Chư Pưh, Tỉnh Gia Lai",
+    "code": "23986",
+    "parent_code": "639"
+  },
+  {
+    "name": "Ia BLứ",
+    "type": "xa",
+    "slug": "ia-blu",
+    "name_with_type": "Xã Ia BLứ",
+    "path": "Ia BLứ, Chư Pưh, Gia Lai",
+    "path_with_type": "Xã Ia BLứ, Huyện Chư Pưh, Tỉnh Gia Lai",
+    "code": "23987",
+    "parent_code": "639"
+  }
+]

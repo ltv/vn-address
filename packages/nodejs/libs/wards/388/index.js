@@ -1,0 +1,103 @@
+
+module.exports = [
+  {
+    "name": "Yên Khương",
+    "type": "xa",
+    "slug": "yen-khuong",
+    "name_with_type": "Xã Yên Khương",
+    "path": "Yên Khương, Lang Chánh, Thanh Hóa",
+    "path_with_type": "Xã Yên Khương, Huyện Lang Chánh, Tỉnh Thanh Hóa",
+    "code": "15031",
+    "parent_code": "388"
+  },
+  {
+    "name": "Yên Thắng",
+    "type": "xa",
+    "slug": "yen-thang",
+    "name_with_type": "Xã Yên Thắng",
+    "path": "Yên Thắng, Lang Chánh, Thanh Hóa",
+    "path_with_type": "Xã Yên Thắng, Huyện Lang Chánh, Tỉnh Thanh Hóa",
+    "code": "15034",
+    "parent_code": "388"
+  },
+  {
+    "name": "Trí Nang",
+    "type": "xa",
+    "slug": "tri-nang",
+    "name_with_type": "Xã Trí Nang",
+    "path": "Trí Nang, Lang Chánh, Thanh Hóa",
+    "path_with_type": "Xã Trí Nang, Huyện Lang Chánh, Tỉnh Thanh Hóa",
+    "code": "15037",
+    "parent_code": "388"
+  },
+  {
+    "name": "Giao An",
+    "type": "xa",
+    "slug": "giao-an",
+    "name_with_type": "Xã Giao An",
+    "path": "Giao An, Lang Chánh, Thanh Hóa",
+    "path_with_type": "Xã Giao An, Huyện Lang Chánh, Tỉnh Thanh Hóa",
+    "code": "15040",
+    "parent_code": "388"
+  },
+  {
+    "name": "Giao Thiện",
+    "type": "xa",
+    "slug": "giao-thien",
+    "name_with_type": "Xã Giao Thiện",
+    "path": "Giao Thiện, Lang Chánh, Thanh Hóa",
+    "path_with_type": "Xã Giao Thiện, Huyện Lang Chánh, Tỉnh Thanh Hóa",
+    "code": "15043",
+    "parent_code": "388"
+  },
+  {
+    "name": "Tân Phúc",
+    "type": "xa",
+    "slug": "tan-phuc",
+    "name_with_type": "Xã Tân Phúc",
+    "path": "Tân Phúc, Lang Chánh, Thanh Hóa",
+    "path_with_type": "Xã Tân Phúc, Huyện Lang Chánh, Tỉnh Thanh Hóa",
+    "code": "15046",
+    "parent_code": "388"
+  },
+  {
+    "name": "Tam Văn",
+    "type": "xa",
+    "slug": "tam-van",
+    "name_with_type": "Xã Tam Văn",
+    "path": "Tam Văn, Lang Chánh, Thanh Hóa",
+    "path_with_type": "Xã Tam Văn, Huyện Lang Chánh, Tỉnh Thanh Hóa",
+    "code": "15049",
+    "parent_code": "388"
+  },
+  {
+    "name": "Lâm Phú",
+    "type": "xa",
+    "slug": "lam-phu",
+    "name_with_type": "Xã Lâm Phú",
+    "path": "Lâm Phú, Lang Chánh, Thanh Hóa",
+    "path_with_type": "Xã Lâm Phú, Huyện Lang Chánh, Tỉnh Thanh Hóa",
+    "code": "15052",
+    "parent_code": "388"
+  },
+  {
+    "name": "Lang Chánh",
+    "type": "thi-tran",
+    "slug": "lang-chanh",
+    "name_with_type": "Thị trấn Lang Chánh",
+    "path": "Lang Chánh, Lang Chánh, Thanh Hóa",
+    "path_with_type": "Thị trấn Lang Chánh, Huyện Lang Chánh, Tỉnh Thanh Hóa",
+    "code": "15055",
+    "parent_code": "388"
+  },
+  {
+    "name": "Đồng Lương",
+    "type": "xa",
+    "slug": "dong-luong",
+    "name_with_type": "Xã Đồng Lương",
+    "path": "Đồng Lương, Lang Chánh, Thanh Hóa",
+    "path_with_type": "Xã Đồng Lương, Huyện Lang Chánh, Tỉnh Thanh Hóa",
+    "code": "15058",
+    "parent_code": "388"
+  }
+]

@@ -1,0 +1,223 @@
+
+module.exports = [
+  {
+    "name": "Thạch Hà",
+    "type": "thi-tran",
+    "slug": "thach-ha",
+    "name_with_type": "Thị trấn Thạch Hà",
+    "path": "Thạch Hà, Thạch Hà, Hà Tĩnh",
+    "path_with_type": "Thị trấn Thạch Hà, Huyện Thạch Hà, Tỉnh Hà Tĩnh",
+    "code": "18562",
+    "parent_code": "445"
+  },
+  {
+    "name": "Ngọc Sơn",
+    "type": "xa",
+    "slug": "ngoc-son",
+    "name_with_type": "Xã Ngọc Sơn",
+    "path": "Ngọc Sơn, Thạch Hà, Hà Tĩnh",
+    "path_with_type": "Xã Ngọc Sơn, Huyện Thạch Hà, Tỉnh Hà Tĩnh",
+    "code": "18565",
+    "parent_code": "445"
+  },
+  {
+    "name": "Thạch Hải",
+    "type": "xa",
+    "slug": "thach-hai",
+    "name_with_type": "Xã Thạch Hải",
+    "path": "Thạch Hải, Thạch Hà, Hà Tĩnh",
+    "path_with_type": "Xã Thạch Hải, Huyện Thạch Hà, Tỉnh Hà Tĩnh",
+    "code": "18571",
+    "parent_code": "445"
+  },
+  {
+    "name": "Thạch Kênh",
+    "type": "xa",
+    "slug": "thach-kenh",
+    "name_with_type": "Xã Thạch Kênh",
+    "path": "Thạch Kênh, Thạch Hà, Hà Tĩnh",
+    "path_with_type": "Xã Thạch Kênh, Huyện Thạch Hà, Tỉnh Hà Tĩnh",
+    "code": "18586",
+    "parent_code": "445"
+  },
+  {
+    "name": "Thạch Sơn",
+    "type": "xa",
+    "slug": "thach-son",
+    "name_with_type": "Xã Thạch Sơn",
+    "path": "Thạch Sơn, Thạch Hà, Hà Tĩnh",
+    "path_with_type": "Xã Thạch Sơn, Huyện Thạch Hà, Tỉnh Hà Tĩnh",
+    "code": "18589",
+    "parent_code": "445"
+  },
+  {
+    "name": "Thạch Liên",
+    "type": "xa",
+    "slug": "thach-lien",
+    "name_with_type": "Xã Thạch Liên",
+    "path": "Thạch Liên, Thạch Hà, Hà Tĩnh",
+    "path_with_type": "Xã Thạch Liên, Huyện Thạch Hà, Tỉnh Hà Tĩnh",
+    "code": "18592",
+    "parent_code": "445"
+  },
+  {
+    "name": "Đỉnh Bàn",
+    "type": "xa",
+    "slug": "dinh-ban",
+    "name_with_type": "Xã Đỉnh Bàn",
+    "path": "Đỉnh Bàn, Thạch Hà, Hà Tĩnh",
+    "path_with_type": "Xã Đỉnh Bàn, Huyện Thạch Hà, Tỉnh Hà Tĩnh",
+    "code": "18595",
+    "parent_code": "445"
+  },
+  {
+    "name": "Việt Tiến",
+    "type": "xa",
+    "slug": "viet-tien",
+    "name_with_type": "Xã Việt Tiến",
+    "path": "Việt Tiến, Thạch Hà, Hà Tĩnh",
+    "path_with_type": "Xã Việt Tiến, Huyện Thạch Hà, Tỉnh Hà Tĩnh",
+    "code": "18601",
+    "parent_code": "445"
+  },
+  {
+    "name": "Thạch Khê",
+    "type": "xa",
+    "slug": "thach-khe",
+    "name_with_type": "Xã Thạch Khê",
+    "path": "Thạch Khê, Thạch Hà, Hà Tĩnh",
+    "path_with_type": "Xã Thạch Khê, Huyện Thạch Hà, Tỉnh Hà Tĩnh",
+    "code": "18604",
+    "parent_code": "445"
+  },
+  {
+    "name": "Thạch Long",
+    "type": "xa",
+    "slug": "thach-long",
+    "name_with_type": "Xã Thạch Long",
+    "path": "Thạch Long, Thạch Hà, Hà Tĩnh",
+    "path_with_type": "Xã Thạch Long, Huyện Thạch Hà, Tỉnh Hà Tĩnh",
+    "code": "18607",
+    "parent_code": "445"
+  },
+  {
+    "name": "Thạch Trị",
+    "type": "xa",
+    "slug": "thach-tri",
+    "name_with_type": "Xã Thạch Trị",
+    "path": "Thạch Trị, Thạch Hà, Hà Tĩnh",
+    "path_with_type": "Xã Thạch Trị, Huyện Thạch Hà, Tỉnh Hà Tĩnh",
+    "code": "18619",
+    "parent_code": "445"
+  },
+  {
+    "name": "Thạch Lạc",
+    "type": "xa",
+    "slug": "thach-lac",
+    "name_with_type": "Xã Thạch Lạc",
+    "path": "Thạch Lạc, Thạch Hà, Hà Tĩnh",
+    "path_with_type": "Xã Thạch Lạc, Huyện Thạch Hà, Tỉnh Hà Tĩnh",
+    "code": "18622",
+    "parent_code": "445"
+  },
+  {
+    "name": "Thạch Ngọc",
+    "type": "xa",
+    "slug": "thach-ngoc",
+    "name_with_type": "Xã Thạch Ngọc",
+    "path": "Thạch Ngọc, Thạch Hà, Hà Tĩnh",
+    "path_with_type": "Xã Thạch Ngọc, Huyện Thạch Hà, Tỉnh Hà Tĩnh",
+    "code": "18625",
+    "parent_code": "445"
+  },
+  {
+    "name": "Tượng Sơn",
+    "type": "xa",
+    "slug": "tuong-son",
+    "name_with_type": "Xã Tượng Sơn",
+    "path": "Tượng Sơn, Thạch Hà, Hà Tĩnh",
+    "path_with_type": "Xã Tượng Sơn, Huyện Thạch Hà, Tỉnh Hà Tĩnh",
+    "code": "18628",
+    "parent_code": "445"
+  },
+  {
+    "name": "Thạch Văn",
+    "type": "xa",
+    "slug": "thach-van",
+    "name_with_type": "Xã Thạch Văn",
+    "path": "Thạch Văn, Thạch Hà, Hà Tĩnh",
+    "path_with_type": "Xã Thạch Văn, Huyện Thạch Hà, Tỉnh Hà Tĩnh",
+    "code": "18631",
+    "parent_code": "445"
+  },
+  {
+    "name": "Lưu Vĩnh Sơn",
+    "type": "xa",
+    "slug": "luu-vinh-son",
+    "name_with_type": "Xã Lưu Vĩnh Sơn",
+    "path": "Lưu Vĩnh Sơn, Thạch Hà, Hà Tĩnh",
+    "path_with_type": "Xã Lưu Vĩnh Sơn, Huyện Thạch Hà, Tỉnh Hà Tĩnh",
+    "code": "18634",
+    "parent_code": "445"
+  },
+  {
+    "name": "Thạch Thắng",
+    "type": "xa",
+    "slug": "thach-thang",
+    "name_with_type": "Xã Thạch Thắng",
+    "path": "Thạch Thắng, Thạch Hà, Hà Tĩnh",
+    "path_with_type": "Xã Thạch Thắng, Huyện Thạch Hà, Tỉnh Hà Tĩnh",
+    "code": "18637",
+    "parent_code": "445"
+  },
+  {
+    "name": "Thạch Đài",
+    "type": "xa",
+    "slug": "thach-dai",
+    "name_with_type": "Xã Thạch Đài",
+    "path": "Thạch Đài, Thạch Hà, Hà Tĩnh",
+    "path_with_type": "Xã Thạch Đài, Huyện Thạch Hà, Tỉnh Hà Tĩnh",
+    "code": "18643",
+    "parent_code": "445"
+  },
+  {
+    "name": "Thạch Hội",
+    "type": "xa",
+    "slug": "thach-hoi",
+    "name_with_type": "Xã Thạch Hội",
+    "path": "Thạch Hội, Thạch Hà, Hà Tĩnh",
+    "path_with_type": "Xã Thạch Hội, Huyện Thạch Hà, Tỉnh Hà Tĩnh",
+    "code": "18649",
+    "parent_code": "445"
+  },
+  {
+    "name": "Tân Lâm Hương",
+    "type": "xa",
+    "slug": "tan-lam-huong",
+    "name_with_type": "Xã Tân Lâm Hương",
+    "path": "Tân Lâm Hương, Thạch Hà, Hà Tĩnh",
+    "path_with_type": "Xã Tân Lâm Hương, Huyện Thạch Hà, Tỉnh Hà Tĩnh",
+    "code": "18652",
+    "parent_code": "445"
+  },
+  {
+    "name": "Thạch Xuân",
+    "type": "xa",
+    "slug": "thach-xuan",
+    "name_with_type": "Xã Thạch Xuân",
+    "path": "Thạch Xuân, Thạch Hà, Hà Tĩnh",
+    "path_with_type": "Xã Thạch Xuân, Huyện Thạch Hà, Tỉnh Hà Tĩnh",
+    "code": "18658",
+    "parent_code": "445"
+  },
+  {
+    "name": "Nam Điền",
+    "type": "xa",
+    "slug": "nam-dien",
+    "name_with_type": "Xã Nam Điền",
+    "path": "Nam Điền, Thạch Hà, Hà Tĩnh",
+    "path_with_type": "Xã Nam Điền, Huyện Thạch Hà, Tỉnh Hà Tĩnh",
+    "code": "18667",
+    "parent_code": "445"
+  }
+]
