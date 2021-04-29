@@ -1,8 +1,8 @@
 {
   "name": "@ltv/vn-address",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "All address information from Viet Nam",
-  "main": "index.js",
+  "main": "dist/index.js",
   "repository": "git@github.com:ltv/vn-address.git",
   "author": "Luc <luc@ltv.vn>",
   "license": "MIT",
