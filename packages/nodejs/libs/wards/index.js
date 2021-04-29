@@ -1,3 +1,9 @@
 module.exports = {
-  getWards: (districtCode) => require(`./${districtCode}/index`),
+  getWards: (districtCode) => {
+    try {
+      return require(`./${districtCode}/index`)
+    } catch (_) {
+      return []
+    }
+  },
 }
