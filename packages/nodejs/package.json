@@ -1,13 +1,13 @@
 {
   "name": "@ltv/vn-address",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "All address information from Viet Nam",
   "main": "index.js",
   "repository": "git@github.com:ltv/vn-address.git",
   "author": "Luc <luc@ltv.vn>",
   "license": "MIT",
   "scripts": {
-    "postinstall": "node tools/generate.js",
+    "generate": "node tools/generate.js",
     "prebuild": "rimraf dist",
     "build": "node tools/build.js"
   },
